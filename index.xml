@@ -5,9 +5,9 @@
     <link>https://wenzhe-li.github.io/</link>
       <atom:link href="https://wenzhe-li.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenzhe Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Copyright 2023 Wenzhe Li. Icons made by Freepik from www.flaticon.com.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Copyright 2023 Wenzhe Li.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wenzhe-li.github.io/media/icon_huc9fdf3b8e6424f0781d6074e4869ee92_27796_512x512_fill_lanczos_center_3.png</url>
+      <url>https://wenzhe-li.github.io/media/icon_hu01a5fc077cf3b286b1303a1ce2accecd_21518_512x512_fill_lanczos_center_3.png</url>
       <title>Wenzhe Li</title>
       <link>https://wenzhe-li.github.io/</link>
     </image>
@@ -29,6 +29,29 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Survey on Transformers in Reinforcement Learning</title>
+      <link>https://wenzhe-li.github.io/publication/tmlr23/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://wenzhe-li.github.io/publication/tmlr23/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
